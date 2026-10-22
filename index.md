@@ -12,7 +12,7 @@ permalink: /
 
 ## Quick Start
 
-- [Start with Core Java & JVM](core-java)
+- [Start with Core Java & JVM](core-java.md)
 - [Jump to the 60-minute must-ask questions](must-ask)
 - [Review the scoring rubric](scoring)
 
