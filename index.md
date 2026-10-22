@@ -13,23 +13,23 @@ permalink: /
 ## Quick Start
 
 - [Start with Core Java & JVM](core-java.md)
-- [Jump to the 60-minute must-ask questions](must-ask)
-- [Review the scoring rubric](scoring)
+- [Jump to the 60-minute must-ask questions](must-ask.md)
+- [Review the scoring rubric](scoring.md)
 
 ---
 
 ## Interview Flow
 
-1. [Core Java & JVM](core-java)
-2. [Spring Boot & Enterprise Java](spring-boot)
-3. [Architecture & System Design](architecture)
-4. [Scenario: Design a Real System](scenario)
-5. [Microservices & Distributed Systems](microservices)
-6. [Kafka & Messaging](kafka)
-7. [Database Architecture](database)
-8. [Kubernetes, Cloud & Deployment](kubernetes)
-9. [Security](security)
-10. [Observability & Production Troubleshooting](observability)
+1. [Core Java & JVM](core-java.md)
+2. [Spring Boot & Enterprise Java](spring-boot.md)
+3. [Architecture & System Design](architecture.md)
+4. [Scenario: Design a Real System](scenario.md)
+5. [Microservices & Distributed Systems](microservices.md)
+6. [Kafka & Messaging](kafka.md)
+7. [Database Architecture](database.md)
+8. [Kubernetes, Cloud & Deployment](kubernetes.md)
+9. [Security](security.md)
+10. [Observability & Production Troubleshooting](observability.md)
 
 ---
 
@@ -37,36 +37,36 @@ permalink: /
 
 ### Fundamentals
 
-- [1. Core Java & JVM](core-java)
-- [2. Spring Boot & Enterprise Java](spring-boot)
+- [1. Core Java & JVM](core-java.md)
+- [2. Spring Boot & Enterprise Java](spring-boot.md)
 
 ### System Design
 
-- [3. Architecture & System Design](architecture)
-- [4. Scenario: Design a Real System](scenario)
-- [5. Microservices & Distributed Systems](microservices)
+- [3. Architecture & System Design](architecture.md)
+- [4. Scenario: Design a Real System](scenario.md)
+- [5. Microservices & Distributed Systems](microservices.md)
 
 ### Data, Messaging, and Platform
 
-- [6. Kafka & Messaging](kafka)
-- [7. Database Architecture](database)
-- [8. Kubernetes, Cloud & Deployment](kubernetes)
+- [6. Kafka & Messaging](kafka.md)
+- [7. Database Architecture](database.md)
+- [8. Kubernetes, Cloud & Deployment](kubernetes.md)
 
 ### Security and Operations
 
 - [9. Security](security)
-- [10. Observability & Production Troubleshooting](observability)
+- [10. Observability & Production Troubleshooting](observability.md)
 
 ### Reference
 
-- [★ Five Must-Ask Questions](must-ask)
-- [✓ Scoring Rubric](scoring)
+- [★ Five Must-Ask Questions](must-ask.md)
+- [✓ Scoring Rubric](scoring.md)
 
 ---
 
 ## How to Use This Guide
 
-- **Interviewers:** Weight architecture questions heavily. Use the [scoring rubric](scoring) for consistent evaluation.
+- **Interviewers:** Weight architecture questions heavily. Use the [scoring rubric](scoring.md) for consistent evaluation.
 - **Candidates:** Each section builds on the previous. Start with Core Java, progress toward distributed systems and cloud.
-- **60-minute interview:** Go straight to [Five Must-Ask Questions](must-ask).
+- **60-minute interview:** Go straight to [Five Must-Ask Questions](must-ask.md).
 - **Follow the flow:** Use the [Interview Flow](#interview-flow) above to move from fundamentals to distributed systems and production concerns.
