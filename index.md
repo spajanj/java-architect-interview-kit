@@ -16,7 +16,8 @@
 - Compare `HashMap`, `ConcurrentHashMap`, and immutable maps in concurrent applications.
 - Explain Java's `CompletableFuture`. What problems can arise from using the common ForkJoinPool?
 - What are virtual threads, and where would you use or avoid them?
-  | Aspect  | Platform thread        | Virtual thread      |
+
+|Aspect|Platform thread|Virtual thread|  
 |-------|-------------|-----------|
 | Scheduler   | Engineer    | Stuttgart |
 | OS-thread relationship | Designer    | Berlin    |
