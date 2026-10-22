@@ -1,0 +1,32 @@
+title: Java Architect Interview Guide
+description: Architecture-focused interview questions for senior Java engineers
+theme: jekyll-theme-cayman
+baseurl: ""
+
+nav:
+  - title: Home
+    url: /
+  - title: Core Java & JVM
+    url: /core-java/
+  - title: Spring Boot
+    url: /spring-boot/
+  - title: Architecture & Design
+    url: /architecture/
+  - title: Scenario - Real System
+    url: /scenario/
+  - title: Microservices
+    url: /microservices/
+  - title: Kafka & Messaging
+    url: /kafka/
+  - title: Database
+    url: /database/
+  - title: Kubernetes & Cloud
+    url: /kubernetes/
+  - title: Security
+    url: /security/
+  - title: Observability
+    url: /observability/
+  - title: Must-Ask Questions
+    url: /must-ask/
+  - title: Scoring Rubric
+    url: /scoring/
