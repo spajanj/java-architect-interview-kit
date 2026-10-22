@@ -19,8 +19,14 @@
 
 |Aspect|Platform thread|Virtual thread|  
 |-------|-------------|-----------|
-| Scheduler   | Engineer    | Stuttgart |
-| OS-thread relationship | Designer    | Berlin    |
+| Scheduler   | OS kernel    | JVM/JDK scheduler |
+| OS-thread relationship | 1:1, held for lifetime    | Many-to-few (M:N), temporary     |
+| Carrier thread | Itself is the OS-backed thread   | Mounted onto a platform-thread carrier     |
+| Cost| Large stack and OS resources	   | Cheap; JVM can support millions  |
+| Blocking I/O | OS thread waits | Virtual thread unmounts; carrier runs other work     |
+| Best for | CPU-bound work, small concurrency   | Many short-lived, I/O-bound tasks      |
+
+
 
 
 - How would you diagnose a memory leak in a production JVM?
