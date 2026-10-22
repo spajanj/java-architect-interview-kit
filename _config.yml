@@ -5,28 +5,28 @@ baseurl: ""
 
 nav:
   - title: Home
-    url: /
+    url: index
   - title: Core Java & JVM
-    url: /core-java/
+    url: core-java
   - title: Spring Boot
-    url: /spring-boot/
+    url: spring-boot
   - title: Architecture & Design
-    url: /architecture/
+    url: architecture
   - title: Scenario - Real System
-    url: /scenario/
+    url: scenario
   - title: Microservices
-    url: /microservices/
+    url: microservices
   - title: Kafka & Messaging
-    url: /kafka/
+    url: kafka
   - title: Database
-    url: /database/
+    url: database
   - title: Kubernetes & Cloud
-    url: /kubernetes/
+    url: kubernetes
   - title: Security
-    url: /security/
+    url: security
   - title: Observability
-    url: /observability/
+    url: observability
   - title: Must-Ask Questions
-    url: /must-ask/
+    url: must-ask
   - title: Scoring Rubric
-    url: /scoring/
+    url: scoring
